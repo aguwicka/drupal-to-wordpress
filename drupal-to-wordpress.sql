@@ -192,4 +192,4 @@ UPDATE wordpress.wp_2_posts
 	SET post_content = REPLACE(post_content,'<p class="italic">&nbsp;</p>','')
 ;
 
-[STEP 5] Repeat 3/4 replacing the _2 with your new site ID.
+# STEP-5 Repeat 3/4 replacing the _2 with your new site ID.
